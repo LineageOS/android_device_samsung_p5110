@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dac4157f_0d0c3393",
+        "filename": "Android.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2013-07-10T10:10:32Z",
+      "side": 1,
+      "message": "breaks building subdirs of p5100",
+      "revId": "c071ba8e521fe8c6d5c8cd09a5eedb5a97eca622",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
