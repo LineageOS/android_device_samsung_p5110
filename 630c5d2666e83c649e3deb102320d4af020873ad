@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf091321_f5adcf31",
+        "filename": "p5110.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-07-30T18:56:15Z",
+      "side": 0,
+      "message": "+\u003d",
+      "range": {
+        "startLine": 35,
+        "startChar": 27,
+        "endLine": 35,
+        "endChar": 29
+      },
+      "revId": "630c5d2666e83c649e3deb102320d4af020873ad",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
