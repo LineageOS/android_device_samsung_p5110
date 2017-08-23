@@ -2,13 +2,5 @@
     {
         "repository": "android_device_samsung_espresso-common",
         "target_path": "device/samsung/espresso-common"
-    },
-    {
-        "repository": "android_hardware_ti_omap4",
-        "target_path": "hardware/ti/omap4"
-    },
-    {
-        "repository": "android_kernel_samsung_espresso10",
-        "target_path": "kernel/samsung/espresso10"
     }
 ]
