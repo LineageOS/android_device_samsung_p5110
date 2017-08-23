@@ -21,17 +21,17 @@ PRODUCT_RELEASE_NAME := p5110
 TARGET_SCREEN_HEIGHT := 800
 TARGET_SCREEN_WIDTH := 1280
 
-# Inherit common CM configuration
+# Inherit common LineageOS configuration
 $(call inherit-product, vendor/cm/config/common_full_tablet_wifionly.mk)
 
-# CyanogenMod specific overlay
+# LineageOS specific overlay
 DEVICE_PACKAGE_OVERLAYS += device/samsung/espresso-common/overlay/cm-common
 
 # Inherit device configuration
 $(call inherit-product, device/samsung/p5110/aosp_p5110.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_NAME := cm_p5110
+PRODUCT_NAME := lineage_p5110
 
 # Set build fingerprint / ID / Product Name etc.
 PRODUCT_BUILD_PROP_OVERRIDES += \
